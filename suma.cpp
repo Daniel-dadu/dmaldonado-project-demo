@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Suma números
 int main(){
 	int n, tmp, res = 0;
 	cout << "Cuantos números vas a sumar: ";
